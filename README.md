@@ -3,7 +3,15 @@ Esta aplicação permite aos usuários inserir nomes de amigos em uma lista para
 
 O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 
-Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+<img src="/tela2.png">
+
+Os nomes inseridos serão exibidos em uma lista visível na página,
+
+<img src="/tela3.png">
+
+e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
+
+<img src="/tela4.png">
 
 **Funcionalidades:**
 
@@ -15,4 +23,3 @@ Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo 
 
 Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
-<img src="/tela 1.png">
