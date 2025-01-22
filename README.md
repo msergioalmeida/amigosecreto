@@ -15,3 +15,4 @@ Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo 
 
 Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+<img src="/tela 1.png">
