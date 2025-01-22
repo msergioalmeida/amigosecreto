@@ -3,7 +3,7 @@ Esta aplicação permite aos usuários inserir nomes de amigos em uma lista para
 
 O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 
-<img src="/tela1.png">
+<img src="/tela1.png"> 
 
 Os nomes inseridos serão exibidos em uma lista visível na página,
 
