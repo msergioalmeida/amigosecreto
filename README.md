@@ -1,4 +1,4 @@
-# amigosecreto
+# Amigo Secreto
 Esta aplicação permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
